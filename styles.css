@@ -1,0 +1,38 @@
+.img-responsive {
+    margin-bottom: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ .title{
+    text-align : center;
+    font-size: 50px;
+}
+.project {
+   text-align: center; 
+}
+body {
+    font-family: sans-serif;
+}
+ .col-md-4 {
+     text-align: center;
+ }
+ .title {
+     font-size: 35px;
+     text-align: center;
+ }
+ @media screen and (min-width:340px) {
+     .logo {
+         margin-left: 0px;
+     }
+ }
+@media screen and (min-width:576px) {
+    .header {
+        font-size: 62px;
+    }
+    .title {
+        font-size : 46px;
+    }
+}
+
+
+    
