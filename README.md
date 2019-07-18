@@ -6,7 +6,7 @@ This portfolio is part of Udacity's Front-End-Web Developer Nano Degree Course P
 - [x] Replicate Design with HTML and CSS
 - [x] Make the website responsive
 # Mockup
-![] (img/design.png)
+![](img/design.png)
 
 
 
